@@ -1,0 +1,18 @@
+h1{
+    font-style:italic ;
+    padding: 100px;
+    border:5px dotted  ;
+    margin: 99px ;
+    text-align: center;
+    font-size: 50px;
+    background-color:dimgrey;
+}
+p{
+font-style: italic;
+    padding: 10px;
+    border: 5px dotted;
+    margin: 99px;
+    text-align: center;
+    font-size: 50px;
+    background-color:aliceblue;
+}
